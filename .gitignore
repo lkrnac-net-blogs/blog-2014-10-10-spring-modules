@@ -13,3 +13,9 @@ hs_err_pid*
 /.metadata/
 /RemoteSystemsTempFiles/
 /Servers/
+/main-module/.settings/
+/main-module/target/
+/main-module/.classpath
+/main-module/.gitignore
+/main-module/.project
+/main-module/.springBeans
